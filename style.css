@@ -1,6 +1,6 @@
 :root {
-  --color-purple: rgba(197, 18, 193, 1);
-  --color-pink: rgba(241, 50, 50, 1);
+  --color-purple: rgb(27, 18, 197);
+  --color-pink: rgb(50, 241, 139);
 }
 
 body {
