@@ -11,7 +11,7 @@ For people who are working through the blog post this demo was written for, ther
 If you ran this command
 
 ```bash
-clj -m cljs.main -d "demo-clojurescript-gh-pages/out"  -c demo.static-website -r
+clj -M -m cljs.main -d "demo-clojurescript-gh-pages/out"  -c demo.static-website -r
 ```
 
 You could see an exception like this in your terminal:
